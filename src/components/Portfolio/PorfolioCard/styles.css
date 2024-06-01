@@ -1,0 +1,17 @@
+.customCard-dark {
+    background: #111827 !important;
+    border: solid !important;
+    border-width: 2px !important;
+    border-radius: 0.375rem !important;
+    --tw-border-opacity: 1 !important;
+    border-color: rgb(31 41 55 / var(--tw-border-opacity)) !important;
+}
+
+.customCard {
+    background: white !important;
+    border: solid !important;
+    border-width: 2px !important;
+    border-radius: 0.375rem !important;
+    --tw-border-opacity: 1 !important;
+    border-color: rgb(229 229 229 / var(--tw-border-opacity)) !important;
+}
